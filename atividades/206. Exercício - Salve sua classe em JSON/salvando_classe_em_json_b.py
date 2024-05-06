@@ -17,3 +17,4 @@ with open(CAMINHO_ARQUIVO,'r') as arquivo:
     print(mes_2.funcionarios,mes_2.preco)
     print(mes_3.funcionarios,mes_3.preco)
     print(mes_4.funcionarios,mes_4.preco)
+    
